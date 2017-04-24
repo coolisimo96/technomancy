@@ -1,0 +1,10 @@
+{
+  "homepage": "<homepage/download page for your mod>",
+  "1.11.2": {
+    "1.0": "started messing around with modding", 
+  },
+  "promos": {
+    "1.11.2-latest": "1.0",
+    "1.11.2-recommended": "1.0"
+  }
+}
